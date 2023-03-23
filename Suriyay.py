@@ -7,7 +7,7 @@ import random
 import openai
 
 # set up the OpenAI API key
-openai.api_key = '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'
+openai.api_key = "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"
 
 # set up the OpenAI model ID
 model_id = 'text-davinci-003'
