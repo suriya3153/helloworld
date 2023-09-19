@@ -123,3 +123,4 @@ for chat in st.session_state.history:
     st_message(**chat)  # unpacking
     
 st.text_input("Talk to baby", key="input_text", on_change=generate_answer)
+#https://drive.google.com/file/d/1mItx8sfp-ma415vlhYPk9gXoohD_Yh7E/view?usp=sharing
